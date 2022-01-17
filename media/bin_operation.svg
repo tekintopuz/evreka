@@ -1,0 +1,467 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="923" height="211">
+  <defs />
+  <g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <rect fill="#C0C0C0" stroke="none" x="207" y="87" width="177.09716796875" height="183" opacity="0.2" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <rect fill="#ffffff" stroke="none" x="200" y="80" width="177.09716796875" height="183" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 200 80 L 377.09716796875 80 L 377.09716796875 263 L 200 263 L 200 80 Z Z" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 200 103 L 377.09716796875 103" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 228.05908203125 103 L 228.05908203125 263" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 368.09716796875 103 L 368.09716796875 263" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="279.154052734375" y="97.5">Bin</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="205" y="121">PK</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="233.05908203125" y="121">pk</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="373.09716796875" y="121"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="205" y="120.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="205" y="136"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="233.05908203125" y="136">latitude</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="373.09716796875" y="136"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="205" y="135.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="205" y="151"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="233.05908203125" y="151">longitude</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="373.09716796875" y="151"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="205" y="150.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="205" y="166"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="233.05908203125" y="166">collection_frequency</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="373.09716796875" y="166"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="205" y="165.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="205" y="181"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="233.05908203125" y="181">last_collection</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="373.09716796875" y="181"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="205" y="180.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <rect fill="#C0C0C0" stroke="none" x="599" y="87" width="143" height="183" opacity="0.2" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <rect fill="#ffffff" stroke="none" x="592" y="80" width="143" height="183" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 592 80 L 735 80 L 735 263 L 592 263 L 592 80 Z Z" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 592 103 L 735 103" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 620.05908203125 103 L 620.05908203125 263" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 710.2236328125 103 L 710.2236328125 263" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="625.56005859375" y="97.5">BinOperation</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="597" y="121">PK</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="625.05908203125" y="121">pk</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="715.2236328125" y="121"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="597" y="120.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="597" y="136"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="625.05908203125" y="136">bin FK</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="715.2236328125" y="136"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="597" y="135.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="597" y="151"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="625.05908203125" y="151">operation FK</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="715.2236328125" y="151"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="597" y="150.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="597" y="166"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="625.05908203125" y="166">latitude</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="715.2236328125" y="166"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="597" y="165.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="597" y="181"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="625.05908203125" y="181">longitude</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="715.2236328125" y="181"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="597" y="180.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="597" y="196"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="625.05908203125" y="196">datetime</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="715.2236328125" y="196"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="597" y="195.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <rect fill="#C0C0C0" stroke="none" x="967" y="95" width="143" height="183" opacity="0.2" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <rect fill="#ffffff" stroke="none" x="960" y="88" width="143" height="183" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 960 88 L 1103 88 L 1103 271 L 960 271 L 960 88 Z Z" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 960 111 L 1103 111" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 988.05908203125 111 L 988.05908203125 271" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 1032.01904296875 111 L 1032.01904296875 271" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="bold" text-decoration="none" x="1002.95458984375" y="105.5">Operation</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="965" y="129">PK</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="993.05908203125" y="129">pk</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="1037.01904296875" y="129"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="965" y="128.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="965" y="144"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="993.05908203125" y="144">name</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="1037.01904296875" y="144"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="965" y="143.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 377 171 L 592 171" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 578 171 L 592 178" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 578 171 L 592 164" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="#FFFFFF" stroke="none" d="M 563 171 C 563 167.1340064 566.1340064 164 570 164 C 573.8659936 164 577 167.1340064 577 171 C 577 174.8659936 573.8659936 178 570 178 C 566.1340064 178 563 174.8659936 563 171 Z" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 563 171 C 563 167.1340064 566.1340064 164 570 164 C 573.8659936 164 577 167.1340064 577 171 C 577 174.8659936 573.8659936 178 570 178 C 566.1340064 178 563 174.8659936 563 171 Z" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 384 164 L 384 178" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 391 164 L 391 178" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="416.5" y="162.5">bin has many operation</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="401.5" y="162.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="565.5" y="162.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 960 169 L 735 169" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 749 169 L 735 162" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 749 169 L 735 176" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="#FFFFFF" stroke="none" d="M 750 169 C 750 165.1340064 753.1340064 162 757 162 C 760.8659936 162 764 165.1340064 764 169 C 764 172.8659936 760.8659936 176 757 176 C 753.1340064 176 750 172.8659936 750 169 Z" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 750 169 C 750 165.1340064 753.1340064 162 757 162 C 760.8659936 162 764 165.1340064 764 169 C 764 172.8659936 760.8659936 176 757 176 C 753.1340064 176 750 172.8659936 750 169 Z" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 953 176 L 953 162" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <path fill="none" stroke="#000000" d="M 946 176 L 946 162" stroke-miterlimit="10" />
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="757.5" y="190.5">an opeartion used by many bin</text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="933.5" y="189.5"></text>
+      </g>
+    </g>
+    <g transform="translate(-190,-70) scale(1,1)">
+      <g>
+        <path fill="none" stroke="none" />
+        <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal" font-weight="normal" text-decoration="none" x="759.5" y="189.5"></text>
+      </g>
+    </g>
+  </g>
+</svg>
